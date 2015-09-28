@@ -1,7 +1,7 @@
 #Step-By-Step Cheat Sheet for Making a _Drawing_ on the Shapeoko
 
-1. Go to the [Easel](https://www.inventables.com/technologies/easel) website.  Click on "Launch the App." Sign in or sign up.  It's free, so that's nice.
-2. So here is the landing page once you open up Easel:
+1. Go to the [Easel](https://www.inventables.com/technologies/easel) website.  Click on "Launch the App." Sign in. Or sign up.  It's free, so just do it.
+2. Here is the landing page once you open up Easel:
 ![alt text][1]
 First things first, Let's go to the **Materials** menu and change some settings.
  - Select the material labeled **Birch**
@@ -10,6 +10,7 @@ First things first, Let's go to the **Materials** menu and change some settings.
  - Change *Depth Per Pass* to 0.05 inches
 This ensures you will have the right size material for the Shapeoko, and that your pen will only make one pass on the paper (since we're not actually cutting it).
 3. Next, we need to change our bit settings to match our pen.  This is sort of optional, but could be helpful if you are trying to preserve some details or if you have a pen with a really large tip (think one of [these][3]).  Click on the **Machine** menu and change the bit size to whatever it is you're using.  If you're using the aforementioned example, that'll be "0.75 inches."
+![alt text][4]
 4. Now, let's add our image.  There are many ways to do this in Easel.  We can use the tools located above the work area or we can import an SVG that we've already created elsewhere.  This is what we want to do for our purposes here.  To do that, click on **File>>Import SVG**.
 ![alt text][2]
 You know the drill, find your file and open it.  
