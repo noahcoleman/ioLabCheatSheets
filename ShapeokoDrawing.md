@@ -22,4 +22,4 @@ You know the drill, find your file and open it.
 [1]: https://raw.githubusercontent.com/noahcoleman/ioLabCheatSheets/master/images/Materials.jpg "Materials settings."
 [2]: https://raw.githubusercontent.com/noahcoleman/ioLabCheatSheets/master/images/ImportSVG.jpg "Import SVG."
 [3]: https://www.google.com/search?q=fat+tip+markers&newwindow=1&safe=active&espv=2&biw=1440&bih=805&source=lnms&tbm=isch&sa=X&ved=0CAcQ_AUoAmoVChMIz4_i7rqayAIVigOSCh2GoAgD#newwindow=1&safe=active&tbm=isch&q=sharpie+magnum
-[4]: https://raw.githubusercontent.com/noahcoleman/ioLabCheatSheets/master/images/BitSize.jpg "Import SVG."
+[4]: https://raw.githubusercontent.com/noahcoleman/ioLabCheatSheets/master/images/BitSize.jpg "Change bit size."
