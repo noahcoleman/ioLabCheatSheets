@@ -13,7 +13,7 @@ This ensures you will have the right size material for the Shapeoko, and that yo
 ![alt text][4]
 4. Now, let's add our image.  There are many ways to do this in Easel.  We can use the tools located above the work area or we can import an SVG that we've already created elsewhere.  This is what we want to do for our purposes here.  To do that, click on **File>>Import SVG**.
 ![alt text][2]
-You know the drill, find your file and open it.  
+You know the drill, find your file and open it.
 
 
 
